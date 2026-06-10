@@ -17,7 +17,7 @@ student_number: ""
 #  Projeto Individual - Sara Tavares
 
 
-![](experiencias/INDIVIDUAIS/sara/attachments/attachments%201/tudo.jpeg)
+![](experiencias/INDIVIDUAIS/sara/Sara/attachments%201/attachments%201/tudo.jpeg)
 
 ## Conceito
 Para a realização dos meus projetos pessoais, no âmbito da unidade curricular de Prototipagem Digital, decidi explorar objetos de caráter utilitário que me faziam falta no meu quotidiano. Foram desenvolvidos projetos recorrendo à impressora 3D, CNC e Silhouette Cameo, tendo sido-nos dada liberdade para materializar aquilo que idealizávamos.
@@ -49,9 +49,9 @@ Para a CNC, foi desenvolvido um suporte para computador portátil. Depois da mod
 ### Impressão 3D [título]
 
 
-![](experiencias/INDIVIDUAIS/sara/attachments/attachments%201/3d.png)
-![](experiencias/INDIVIDUAIS/sara/attachments/attachments%201/impressao.jpeg)
-![](experiencias/INDIVIDUAIS/sara/attachments/attachments%201/verde.jpeg)
+![](experiencias/INDIVIDUAIS/sara/Sara/attachments%201/attachments%201/3d.png)
+![](experiencias/INDIVIDUAIS/sara/Sara/attachments%201/attachments%201/impressao.jpeg)
+![](experiencias/INDIVIDUAIS/sara/Sara/attachments%201/attachments%201/verde.jpeg)
 ## Desenvolvimento
 A ideia de projetar estes objetos surgiu da identificação de necessidades pessoais no meu quotidiano. A mini palete foi desenvolvida por ser um objeto frequentemente utilizado em diversos trabalhos artísticos, tornando útil a existência de uma versão compacta e facilmente transportável. Por sua vez, o suporte para copos foi concebido devido à sua utilização constante sobre a secretária, com o objetivo de minimizar a ocorrência de derrames e proteger a superfície de trabalho.
 
@@ -75,9 +75,9 @@ Tal como nos outros projetos, este objeto acabou por revelar-se mais útil do qu
 ## Resultado Final
 
 
-![](experiencias/INDIVIDUAIS/sara/attachments/attachments%201/sticker.jpeg)
-![](experiencias/INDIVIDUAIS/sara/attachments/attachments%201/CNC.jpeg)
-![](experiencias/INDIVIDUAIS/sara/attachments/attachments%201/CNC2.jpeg)
+![](experiencias/INDIVIDUAIS/sara/Sara/attachments%201/attachments%201/sticker.jpeg)
+![](experiencias/INDIVIDUAIS/sara/Sara/attachments%201/attachments%201/CNC.jpeg)
+![](experiencias/INDIVIDUAIS/sara/Sara/attachments%201/attachments%201/CNC2.jpeg)
 ## Silhoette cameo- sticker
 ## Desenvolvimento
 Na realização dos stickers, comecei por abrir o software Adobe Illustrator e delinear o design, definindo as formas e especificações necessárias para a sua execução. De seguida, importei os ficheiros para o Silhouette Studio e ajustei-os de forma a garantir um corte correto no vinil.

@@ -70,7 +70,7 @@ _**O que aprendi:**_ Durante esta fase percebi a importância de definir correta
 
 _**O que tentei:**_ Como segundo objeto do projeto, desenvolvi um autocolante em vinil a partir de um desenho criado no Illustrator. Após a conclusão do design, o ficheiro foi preparado no Silhouette Studio e produzido através de corte de vinil na Silhouette Cameo, permitindo explorar o processo de transformação de um elemento gráfico digital num objeto físico.
 
-![[sticker.jpeg]]
+![[experiencias/INDIVIDUAIS/sara/Sara/attachments 1/attachments 1/sticker.jpeg]]
 _**O que aprendi:**_ Aprendi a preparar ficheiros para corte de vinil e a ajustar os parâmetros necessários para obter um corte limpo e preciso. Esta etapa demonstrou como diferentes tecnologias podem ser combinadas para enriquecer um produto final.
 
 ![[experiencias/INDIVIDUAIS/Renata/experiencias 2025265 Renata Freire/_modelo/attachments/ft.jpeg]]
