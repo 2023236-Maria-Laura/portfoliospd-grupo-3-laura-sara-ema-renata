@@ -26,11 +26,12 @@ members:
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 2023236 | Maria L |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome        |
+| ------- | ----------- |
+| 2023236 | Maria Laura |
+| 2025YYY | Aluno B     |
+| 2025ZZZ | Aluno C     |
+| 2025    |             |
 
 ---
 
