@@ -43,7 +43,7 @@ Assim, o projeto junta várias técnicas: **desenho 3D, impressão 3D, corte CNC
 ### Impressão 3D— [Lens cap holder]
 
 ![](experiencias/INDIVIDUAIS/laura/attachments/holderss.png)
-[holders](attachments/holders.md)
+[holders](experiencias/INDIVIDUAIS/laura/attachments%201/holders.md)
 ### Desenvolvimento do lens cap holder
 
 A ideia do **lens cap holder** surgiu porque estava constantemente a perder a tampa da lente da câmara, tanto dentro da mala como nos bolsos. Por isso, decidi criar um acessório simples que me ajudasse a guardar a lens cap de forma mais prática e segura durante a utilização da câmara.
@@ -56,7 +56,7 @@ Depois deste teste, pensei que seria útil ter duas opções de uso. Assim, dese
 
 No final, o acessório resolveu o problema inicial, permitindo guardar a lens cap de forma mais organizada, acessível e segura.
 
-[impressora 3d fusion](attachments/impressora%203d%20fusion.md)
+[impressora 3d fusion](experiencias/INDIVIDUAIS/laura/attachments%201/impressora%203d%20fusion.md)
 https://a360.co/4xB6R7c
 https://a360.co/4e3mcWg
 ### CNC — [Suporte para canecas e taças]
@@ -71,7 +71,7 @@ Depois de criar o primeiro suporte, decidi fazer também uma segunda peça, cria
 
 No final, o suporte ficou simples, funcional e resistente, cumprindo o objetivo de proteger superfícies e servir de apoio para copos, canecas e taças
 
-[cnc fusion](attachments/cnc%20fusion.md)
+[cnc fusion](experiencias/INDIVIDUAIS/laura/attachments%201/cnc%20fusion.md)
 https://a360.co/3OiCqRt
 ## Resultado Final
 
