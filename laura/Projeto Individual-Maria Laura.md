@@ -63,7 +63,7 @@ No final, o acessório resolveu o problema inicial, permitindo guardar a lens ca
 
 Para o **suporte para copos, canecas e taças**, comecei por usar a minha própria caneca como referência, para perceber melhor o tamanho necessário da peça. A partir daí, desenhei o suporte no **Fusion 360**, de forma simples e rápida, e em cerca de 5 minutos já tinha o desenho base feito.
 
-Como se tratava de uma peça plana e funcional, decidi produzi-la na **CNC**, durante a aula. O suporte foi feito com **16 mm de altura**, garantindo alguma resistência e estabilidade para conseguir apoiar copos, canecas ou taças sem ficar demasiado frágil.
+Como se tratava de uma peça plana e funcional, decidi produzi-la na **CNC**, EM MDF durante a aula. O suporte foi feito com **16 mm de altura**, garantindo alguma resistência e estabilidade para conseguir apoiar copos, canecas ou taças sem ficar demasiado frágil.
 
 Depois de criar o primeiro suporte, decidi fazer também uma segunda peça, criando assim um **conjunto de dois suportes de copos**. A ideia foi tornar o projeto mais completo e útil, já que um conjunto de dois faz mais sentido para uso diário e permite utilizar os suportes em diferentes situações.
 
