@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Projeto Individual-Maria Laura
+# Projeto Individual- Maria Laura
 
 ![](experiencias/INDIVIDUAIS/laura/attachments/todos.png)
 ## Conceito
