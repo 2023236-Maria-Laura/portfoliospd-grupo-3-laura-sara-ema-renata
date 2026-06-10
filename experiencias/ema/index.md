@@ -18,7 +18,7 @@ student_number: ""
 
 > Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
 
-![](experiencias/INDIVIDUAIS/laura/attachments%201/hero.jpg)
+![](experiencias/INDIVIDUAIS/M%20Laura/attachments%201/hero.jpg)
 
 Frase-conceito: ideia central do projeto em uma linha.
 
@@ -47,7 +47,7 @@ Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
 **O que tentei:**
 **O que aprendi:**
 
-![](experiencias/INDIVIDUAIS/laura/attachments%201/hero.jpg)
+![](experiencias/INDIVIDUAIS/M%20Laura/attachments%201/hero.jpg)
 
 ### Iteração 2 — [título]
 
@@ -57,8 +57,8 @@ Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
 
 Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
 
-![](experiencias/INDIVIDUAIS/laura/attachments%201/hero.jpg)
-![](experiencias/INDIVIDUAIS/laura/attachments%201/hero.jpg)
+![](experiencias/INDIVIDUAIS/M%20Laura/attachments%201/hero.jpg)
+![](experiencias/INDIVIDUAIS/M%20Laura/attachments%201/hero.jpg)
 
 ## Reflexão
 
