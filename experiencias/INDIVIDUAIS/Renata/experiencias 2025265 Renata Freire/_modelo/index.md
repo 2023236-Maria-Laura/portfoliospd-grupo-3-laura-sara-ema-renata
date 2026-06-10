@@ -54,11 +54,11 @@ O desenvolvimento do projeto passou por várias etapas de modelação, teste e p
 
 _**O que tentei:**_  Comecei por criar o modelo 3D no Fusion 360. O desenho foi construído a partir de um círculo central rodeado por cinco círculos de dimensões idênticas, criando uma composição semelhante a uma flor. Posteriormente, foi aplicada altura à peça através da ferramenta extrusão e criados os compartimentos internos.
 ![](attachments/Captura de ecrã 2026-06-10 201842.png)
-![[attachments/attachments 1/attachments 2/Captura de ecrã 2026-06-10 201437.png]]
+![[attachments/attachments 2/Captura de ecrã 2026-06-10 201437.png]]
 Após concluir a modelação, exportei o ficheiro em formato STL e preparei-o para impressão 3D. Foram definidos os parâmetros de impressão e verificada a estabilidade da peça antes do início do processo.
 Esta etapa permitiu compreender melhor a relação entre o modelo digital e o objeto físico. Foi possível verificar se as espessuras das paredes eram adequadas e confirmar que o design funcionava corretamente quando produzido em escala real.
 
-![[attachments/attachments 1/attachments 2/Captura de ecrã 2026-06-10 210632.png]]
+![[attachments/attachments 2/Captura de ecrã 2026-06-10 210632.png]]
 
 _**O que aprendi:**_ Durante esta fase percebi a importância de definir corretamente as dimensões antes da impressão, uma vez que pequenas alterações no diâmetro dos compartimentos podem influenciar a funcionalidade do objeto. Aprendi também a utilizar padrões circulares para distribuir elementos de forma uniforme.
 
@@ -73,7 +73,7 @@ _**O que tentei:**_ Como segundo objeto do projeto, desenvolvi um autocolante em
 ![[experiencias/INDIVIDUAIS/sara/Sara/attachments 1/attachments 1/sticker.jpeg]]
 _**O que aprendi:**_ Aprendi a preparar ficheiros para corte de vinil e a ajustar os parâmetros necessários para obter um corte limpo e preciso. Esta etapa demonstrou como diferentes tecnologias podem ser combinadas para enriquecer um produto final.
 
-![[attachments/attachments 1/attachments 2/ft.jpeg]]
+![[attachments/attachments 2/ft.jpeg]]
 ## Resultado Final
 
 O resultado final do projeto consiste em dois trabalhos desenvolvidos de forma independente, cada um explorando uma tecnologia de fabrico digital diferente.
@@ -82,7 +82,7 @@ O primeiro resultado foi um **organizador em forma de flor**, concebido através
 
 O segundo resultado foi um **autocolante personalizado em vinil**, desenvolvido a partir de um desenho digital e posteriormente produzido com recurso à Silhouette Cameo. Este trabalho permitiu explorar o processo de preparação de ficheiros para corte e a produção de elementos gráficos físicos através do corte de vinil.
 
-![[attachments/attachments 1/attachments 2/flor final 1.jpeg]]
+![[attachments/attachments 2/flor final 1.jpeg]]
 ![[stickerr 1.jpeg]]
 
 ## Reflexão

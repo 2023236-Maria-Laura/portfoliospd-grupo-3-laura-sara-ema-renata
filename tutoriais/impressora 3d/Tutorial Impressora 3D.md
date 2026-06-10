@@ -17,7 +17,7 @@ machine_name: ""
 
 > A **Bambu Lab A1/mini é uma impressora 3D que serve para criar objetos a partir de modelos digitais, sendo muito usada em protótipos, maquetes, trabalhos escolares e pequenas peças personalizadas.
 
-![](attachments/attachments%201/BAMBO%20A1.jpg)
+![](experiencias/INDIVIDUAIS/M%20Laura/attachments%201%201/BAMBO%20A1.jpg)
 
 Tutorial elaborado pelo grupo seguindo a estrutura de referência (ver tutorial CNC do Fablab Benfica como modelo: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>).
 
