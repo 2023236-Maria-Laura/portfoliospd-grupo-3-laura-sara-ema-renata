@@ -39,24 +39,4 @@ Com tudo preparado, envia-se o ficheiro para corte através do **Silhouette Stud
 
 No final, descarrega-se a base da máquina e retira-se cuidadosamente o material cortado. 
 
-## 4. Como operar a máquina passo-a-passo
-
-Sequência operacional, com fotografias e/ou pequenos vídeos em cada passo crítico.
-
-1. Passo 1 — descrição
-2. Passo 2 — descrição
-3. Passo 3 — ...
-
-![](attachments/hero.jpg)
-
-## 5. Resultado e pós-produção
-
-Que operações ainda têm de ser realizadas sobre o objeto produzido para chegar ao resultado final: lixagem, montagem, acabamentos, ajustes.
-
-## 6. Recursos e Ficheiros
-
-Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
-
-- Ficheiros-modelo: `attachments/`
-- Links externos:
-- Vídeos de referência:
+![](tutoriais/silhoette%20cameo/attachments/VIDEOSC.MP4)
