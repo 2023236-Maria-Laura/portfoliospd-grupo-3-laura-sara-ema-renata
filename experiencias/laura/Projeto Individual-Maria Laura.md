@@ -16,7 +16,7 @@ student_number: ""
 
 # Projeto Individual-Maria Laura
 
-![](attachments/todos.png)
+![](experiencias/laura/attachments/todos.png)
 ## Conceito
 
 Este conjunto reúne pequenos objetos úteis, pensados para resolver problemas simples do dia a dia através de peças leves, personalizadas e fáceis de produzir. As peças foram desenvolvidas com funções específicas: proteger e guardar a tampa da lente da câmara, servir de suporte para canecas e taças, e identificar visualmente o suporte para copos através de um autocolante personalizado.
@@ -42,7 +42,7 @@ Assim, o projeto junta várias técnicas: **desenho 3D, impressão 3D, corte CNC
 
 ### Impressão 3D— [Lens cap holder]
 
-![](attachments/holderss.PNG)
+![](experiencias/laura/attachments/holderss.png)
 [holders](attachments/holders.md)
 ### Desenvolvimento do lens cap holder
 
@@ -75,8 +75,8 @@ No final, o suporte ficou simples, funcional e resistente, cumprindo o objetivo 
 https://a360.co/3OiCqRt
 ## Resultado Final
 
-![](attachments/basecopos3.PNG)
-![](attachments/basecoposcaneca.PNG)
+![](experiencias/laura/attachments/basecopos3.png)
+![](experiencias/laura/attachments/basecoposcaneca.png)
 
 ### Silhoette cameo — [Sticker]
 
