@@ -41,24 +41,8 @@ Depois de confirmadas as definições principais, realiza-se o slice do modelo, 
 Por fim, o ficheiro é exportado em formato .gcode para o cartão da impressora. Nesta fase, teve-se especial atenção ao nome do ficheiro, garantindo que a extensão “.gcode” não era apagada, pois é essencial para que a impressora reconheça corretamente o ficheiro.
 
 Depois de inserir o cartão na impressora, no ecrã da Bambu Lab A1 Mini, seleciona-se o ficheiro correspondente ao objeto criado e inicia-se a impressão. Durante o processo, é importante acompanhar os primeiros minutos da impressão, de forma a verificar se a aderência à base estava correta e se a peça começava a ser impressa sem erros
-## 4. Como operar a máquina passo-a-passo
 
-Sequência operacional, com fotografias e/ou pequenos vídeos em cada passo crítico.
 
-1. Passo 1 — descrição
-2. Passo 2 — descrição
-3. Passo 3 — ...
+![](attachments/IMPRESSORA3D.MP4)
 
-![](attachments/hero.jpg)
 
-## 5. Resultado e pós-produção
-
-Que operações ainda têm de ser realizadas sobre o objeto produzido para chegar ao resultado final: lixagem, montagem, acabamentos, ajustes.
-
-## 6. Recursos e Ficheiros
-
-Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
-
-- Ficheiros-modelo: `attachments/`
-- Links externos:
-- Vídeos de referência:
