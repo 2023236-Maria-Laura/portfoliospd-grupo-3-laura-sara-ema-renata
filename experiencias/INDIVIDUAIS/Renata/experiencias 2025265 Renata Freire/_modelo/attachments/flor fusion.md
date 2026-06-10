@@ -1,1 +1,0 @@
-![[experiencias/INDIVIDUAIS/Renata/experiencias 2025265 Renata Freire/_modelo/attachments/Captura de ecrã 2026-06-10 201437.png]]
